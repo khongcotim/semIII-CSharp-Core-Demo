@@ -1,0 +1,11 @@
+C:\Users\ADMIN\source\repos\ReviewFinal\ReviewFinal\bin\Debug\netcoreapp2.1\ReviewFinal.deps.json
+C:\Users\ADMIN\source\repos\ReviewFinal\ReviewFinal\bin\Debug\netcoreapp2.1\ReviewFinal.runtimeconfig.json
+C:\Users\ADMIN\source\repos\ReviewFinal\ReviewFinal\bin\Debug\netcoreapp2.1\ReviewFinal.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\ReviewFinal\ReviewFinal\bin\Debug\netcoreapp2.1\ReviewFinal.dll
+C:\Users\ADMIN\source\repos\ReviewFinal\ReviewFinal\bin\Debug\netcoreapp2.1\ReviewFinal.pdb
+C:\Users\ADMIN\source\repos\ReviewFinal\ReviewFinal\obj\Debug\netcoreapp2.1\ReviewFinal.csprojAssemblyReference.cache
+C:\Users\ADMIN\source\repos\ReviewFinal\ReviewFinal\obj\Debug\netcoreapp2.1\ReviewFinal.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\ReviewFinal\ReviewFinal\obj\Debug\netcoreapp2.1\ReviewFinal.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\ReviewFinal\ReviewFinal\obj\Debug\netcoreapp2.1\ReviewFinal.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\ReviewFinal\ReviewFinal\obj\Debug\netcoreapp2.1\ReviewFinal.dll
+C:\Users\ADMIN\source\repos\ReviewFinal\ReviewFinal\obj\Debug\netcoreapp2.1\ReviewFinal.pdb

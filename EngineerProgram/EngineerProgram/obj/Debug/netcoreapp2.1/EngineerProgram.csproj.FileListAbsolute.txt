@@ -1,0 +1,11 @@
+C:\Users\ADMIN\source\repos\EngineerProgram\EngineerProgram\obj\Debug\netcoreapp2.1\EngineerProgram.csprojAssemblyReference.cache
+C:\Users\ADMIN\source\repos\EngineerProgram\EngineerProgram\obj\Debug\netcoreapp2.1\EngineerProgram.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\EngineerProgram\EngineerProgram\obj\Debug\netcoreapp2.1\EngineerProgram.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\EngineerProgram\EngineerProgram\obj\Debug\netcoreapp2.1\EngineerProgram.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\EngineerProgram\EngineerProgram\bin\Debug\netcoreapp2.1\EngineerProgram.deps.json
+C:\Users\ADMIN\source\repos\EngineerProgram\EngineerProgram\bin\Debug\netcoreapp2.1\EngineerProgram.runtimeconfig.json
+C:\Users\ADMIN\source\repos\EngineerProgram\EngineerProgram\bin\Debug\netcoreapp2.1\EngineerProgram.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\EngineerProgram\EngineerProgram\bin\Debug\netcoreapp2.1\EngineerProgram.dll
+C:\Users\ADMIN\source\repos\EngineerProgram\EngineerProgram\bin\Debug\netcoreapp2.1\EngineerProgram.pdb
+C:\Users\ADMIN\source\repos\EngineerProgram\EngineerProgram\obj\Debug\netcoreapp2.1\EngineerProgram.dll
+C:\Users\ADMIN\source\repos\EngineerProgram\EngineerProgram\obj\Debug\netcoreapp2.1\EngineerProgram.pdb
